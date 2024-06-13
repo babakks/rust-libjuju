@@ -25,6 +25,15 @@ pub enum Series {
     Cosmic,
     Disco,
     Eoan,
+    Focal,
+    Groovy,
+    Hirsute,
+    Impish,
+    Jammy,
+    Kinetic,
+    Lunar,
+    Mantic,
+    Noble,
 
     // Windows
     Win2012hvr2,
